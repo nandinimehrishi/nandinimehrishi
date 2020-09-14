@@ -4,7 +4,7 @@
 **nandinimehrishi/nandinimehrishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+I am Nandini Mehrishi. My main interest lies in Machine Learning , Computer Vision and Deep Learning. I also have basic knowledge of HTML , CSS, Bootstrap and Javascript. Im curious to work on projects and learn more.
 
 * 🔭 I’m currently working on a computer vision and NLP project
 * 🌱 I’m currently learning Deep Learning
