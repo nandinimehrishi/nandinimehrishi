@@ -11,7 +11,7 @@ I am Nandini Mehrishi. My main interest lies in Machine Learning , Computer Visi
 * 👯 I’m looking to collaborate on Deep Learning, ML or AI project
 * 🤔 I’m looking for help with NLP and keras
  💬 Ask me about OpenCV, python,tensorflow or ML
-*- 📫 How to reach me: contact me directly on this mail
+* 📫 How to reach me: contact me directly on this mail
        mehrishinandini29@gmail.com
        LinkedIn account: https://www.linkedin.com/in/nandini-mehrishi-971474193/
 
